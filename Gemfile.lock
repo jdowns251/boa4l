@@ -1,0 +1,12 @@
+GEM
+  specs:
+    line-bot-api (1.2.1)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  line-bot-api
+
+BUNDLED WITH
+   1.15.3
